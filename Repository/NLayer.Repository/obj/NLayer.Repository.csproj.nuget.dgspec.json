@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Repository\\NLayer.Repository\\NLayer.Repository.csproj": {}
+    "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Repository\\NLayer.Repository\\NLayer.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Core\\NLayer.Core\\NLayer.Core.csproj": {
+    "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Core\\NLayer.Core\\NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Core\\NLayer.Core\\NLayer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Core\\NLayer.Core\\NLayer.Core.csproj",
         "projectName": "NLayer.Core",
-        "projectPath": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Core\\NLayer.Core\\NLayer.Core.csproj",
-        "packagesPath": "C:\\Users\\Caglar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Core\\NLayer.Core\\obj\\",
+        "projectPath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Core\\NLayer.Core\\NLayer.Core.csproj",
+        "packagesPath": "C:\\Users\\caglark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Core\\NLayer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Caglar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caglark\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -69,20 +69,20 @@
         }
       }
     },
-    "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Repository\\NLayer.Repository\\NLayer.Repository.csproj": {
+    "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Repository\\NLayer.Repository\\NLayer.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Repository\\NLayer.Repository\\NLayer.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Repository\\NLayer.Repository\\NLayer.Repository.csproj",
         "projectName": "NLayer.Repository",
-        "projectPath": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Repository\\NLayer.Repository\\NLayer.Repository.csproj",
-        "packagesPath": "C:\\Users\\Caglar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Repository\\NLayer.Repository\\obj\\",
+        "projectPath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Repository\\NLayer.Repository\\NLayer.Repository.csproj",
+        "packagesPath": "C:\\Users\\caglark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Repository\\NLayer.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Caglar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caglark\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Core\\NLayer.Core\\NLayer.Core.csproj": {
-                "projectPath": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Core\\NLayer.Core\\NLayer.Core.csproj"
+              "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Core\\NLayer.Core\\NLayer.Core.csproj": {
+                "projectPath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Core\\NLayer.Core\\NLayer.Core.csproj"
               }
             }
           }

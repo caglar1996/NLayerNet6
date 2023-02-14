@@ -4692,23 +4692,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Caglar\\.nuget\\packages\\": {},
+    "C:\\Users\\caglark\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\API\\NLayer.API\\NLayer.API.csproj",
+      "projectUniqueName": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\API\\NLayer.API\\NLayer.API.csproj",
       "projectName": "NLayer.API",
-      "projectPath": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\API\\NLayer.API\\NLayer.API.csproj",
-      "packagesPath": "C:\\Users\\Caglar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\API\\NLayer.API\\obj\\",
+      "projectPath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\API\\NLayer.API\\NLayer.API.csproj",
+      "packagesPath": "C:\\Users\\caglark\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\API\\NLayer.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Caglar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\caglark\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4723,8 +4723,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Service\\NLayer.Service\\NLayer.Service.csproj": {
-              "projectPath": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\Service\\NLayer.Service\\NLayer.Service.csproj"
+            "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Service\\NLayer.Service\\NLayer.Service.csproj": {
+              "projectPath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Service\\NLayer.Service\\NLayer.Service.csproj"
             }
           }
         }

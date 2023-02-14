@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {}
+    "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\NLayer.Caching\\NLayer.Caching.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {
+    "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\NLayer.Caching\\NLayer.Caching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj",
+        "projectUniqueName": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\NLayer.Caching\\NLayer.Caching.csproj",
         "projectName": "NLayer.Caching",
-        "projectPath": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj",
-        "packagesPath": "C:\\Users\\Caglar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caglar\\Desktop\\caglar\\Calismalar\\.Net\\NLayerApp\\NLayer.Caching\\obj\\",
+        "projectPath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\NLayer.Caching\\NLayer.Caching.csproj",
+        "packagesPath": "C:\\Users\\caglark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\NLayer.Caching\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Caglar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caglark\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
