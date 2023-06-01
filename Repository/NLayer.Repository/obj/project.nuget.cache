@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c5COSJy0u6RhToOHvRoTde8BxIDfxKz/YcXr6nGMydUrZzERt2a3QesCVahcSg+B2sMVj6BI046HpOF73JH19Q==",
+  "dgSpecHash": "I4DZXGPC8m4q+RGkCxAAXmK2vYlyXx4JKb364Xr7bkRNZ2rCDJ5R3nYH47V+x9ZGJHRjfeAE59OSrQiaR3I6eA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Repository\\NLayer.Repository\\NLayer.Repository.csproj",
+  "projectFilePath": "D:\\caglar\\Calismalar\\.Net\\NLayerNet6\\Repository\\NLayer.Repository\\NLayer.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caglark\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\caglark\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

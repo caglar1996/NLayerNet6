@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fvjlIzlVAhGr81B5uXblu5ffDA3D6GC3D4KWgrYosxKwog2OnH03hjXlfyAg2YcMvAzuuTi9MHc3Sgcn7FmiTg==",
+  "dgSpecHash": "nWR3qcQTuNuKs0Z9K+cmP1WIETaUcG/eL6qn3M4kWhnEmNv9idQgiFfOP/qQJaxLTIxNYlpmf7+OKaSrwoPRVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\caglark\\Desktop\\caglar\\Calismalar\\.Net\\NLayerNet6\\Core\\NLayer.Core\\NLayer.Core.csproj",
+  "projectFilePath": "D:\\caglar\\Calismalar\\.Net\\NLayerNet6\\Core\\NLayer.Core\\NLayer.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caglark\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\caglark\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
